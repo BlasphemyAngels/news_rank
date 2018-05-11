@@ -23,3 +23,7 @@
 使用各种方式的方法: 
 
 * `python main.py --method=[method name] ...`
+
+#### 补充
+
+直接使用训练数据训练word2vec效果不一定会很好。后来有人使用`BM25`算法效果还不错。
