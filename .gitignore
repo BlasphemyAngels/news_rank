@@ -1,1 +1,9 @@
 train_data.csv
+Similarity*
+__pycache__
+word2vec.model*
+*.csv
+*.txt
+news12g_bdbk20g_nov90g_dim128.tar.gz
+data/*
+models/*
